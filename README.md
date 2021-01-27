@@ -1,6 +1,6 @@
 # TerminationDetection
 
-Pluscal spec written for the following termination detection problem.
+Pluscal spec for the following termination detection problem.
 
 There are N processes numbered 1..N connected by channels. A process can be in one of two possible states: active or idle. Initially all processes are active, and all channels are empty.
 A process that is in the active state can perform the following actions: 
